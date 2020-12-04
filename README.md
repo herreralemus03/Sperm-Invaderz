@@ -1,2 +1,2 @@
-# SpermInvaderz
+# Sperm Invaderz
 Game project
