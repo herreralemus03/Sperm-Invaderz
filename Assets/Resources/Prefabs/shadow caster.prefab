@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4654037023326897260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8667986296893059856}
+  - component: {fileID: 5506862172669356968}
+  m_Layer: 11
+  m_Name: shadow caster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8667986296893059856
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4654037023326897260}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.29999998, y: 0.29999998, z: 0.29999998}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5506862172669356968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4654037023326897260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShadowGroup: 0
+  m_HasRenderer: 0
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_ApplyToSortingLayers: a11ac39800000000
+  m_ShapePath:
+  - {x: -0.814502, y: 3.9151947, z: 0}
+  - {x: -1.3533238, y: 3.1180234, z: 0}
+  - {x: -1.2969161, y: 1.8582495, z: 0}
+  - {x: -0.70174044, y: 0.7390654, z: 0}
+  - {x: 0.41411942, y: 0.56087077, z: 0}
+  - {x: 0.937146, y: 1.0294229, z: 0}
+  - {x: 1.3166443, y: 1.9146574, z: 0}
+  - {x: 1.3730522, y: 3.136826, z: 0}
+  - {x: 0.865382, y: 4.058153, z: 0}
+  - {x: 0.16772325, y: 15.265769, z: 0}
+  - {x: -0.3049672, y: 15.232941, z: 0}
+  m_ShapePathHash: 564339346
+  m_Mesh: {fileID: 0}
+  m_InstanceId: -6630264

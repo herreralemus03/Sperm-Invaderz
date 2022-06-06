@@ -1,0 +1,1067 @@
+fileFormatVersion: 2
+guid: 8facbe47091195644b04f697f4a48f4a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Forma 1 copia 33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1921
+      width: 28
+      height: 46
+    spriteID: be09e298676f6ee40823a81914b42ce1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1004, y: 1847}
+  - name: Forma 1 copia 32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1071
+      y: 2029
+      width: 0
+      height: 0
+    spriteID: 0e10aeaad36d99e47848891a4bd622fb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 47, y: 1005}
+  - name: Forma 1 copia 31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1079
+      y: 2029
+      width: 0
+      height: 0
+    spriteID: 992ba32fc53d97e49a2bc9c43d49414d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 55, y: 1005}
+  - name: Forma 1 copia 30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1087
+      y: 2029
+      width: 0
+      height: 0
+    spriteID: f494703fd79f05a4697353c229198274
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 63, y: 1005}
+  - name: Forma 1 copia 29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1095
+      y: 2029
+      width: 0
+      height: 0
+    spriteID: f876eab891b50154bb9eb4405d351c10
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 71, y: 1005}
+  - name: Forma 1 copia 28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1071
+      y: 2037
+      width: 0
+      height: 0
+    spriteID: d353231cc04e45b47a919bf9a10421e3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 47, y: 1013}
+  - name: Forma 1 copia 27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1079
+      y: 2037
+      width: 0
+      height: 0
+    spriteID: 7ac0512099151cd4bb9c133498d0249a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 55, y: 1013}
+  - name: Forma 1 copia 26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 2029
+      width: 27
+      height: 15
+    spriteID: 62d52d2b76259474f8a7f15b49ef846b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 997, y: 2029}
+  - name: Forma 1 copia 25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1442
+      width: 30
+      height: 45
+    spriteID: 6e5065c336b50c34e956795330365527
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1004, y: 1418}
+  - name: Forma 1 copia 24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 1356
+      width: 27
+      height: 18
+    spriteID: 9132897584251694dbae0eb75f95c2fb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1039, y: 350}
+  - name: Forma 1 copia 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1813
+      width: 29
+      height: 46
+    spriteID: 4c02c5744ef4ff742abc022e3020cf7f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 991, y: 1218}
+  - name: Forma 1 copia 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1336
+      width: 32
+      height: 45
+    spriteID: d6745d2655c047c40aca0837b309b38d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 990, y: 690}
+  - name: Forma 1 copia 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 1250
+      width: 27
+      height: 45
+    spriteID: 9da112d8d3efafe48af46ed6e0d14f03
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1049, y: 555}
+  - name: Forma 1 copia 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1975
+      width: 28
+      height: 46
+    spriteID: 2963bc47ceb76984fa6aebb035576860
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 982, y: 1229}
+  - name: Forma 1 copia 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1495
+      width: 30
+      height: 45
+    spriteID: c01ded0d901cc094e95db8da2a1ba02c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 977, y: 695}
+  - name: Forma 1 copia 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1548
+      width: 30
+      height: 45
+    spriteID: f33119c62d1a7e84a94945aa1da64260
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 969, y: 697}
+  - name: Forma 1 copia 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 1144
+      width: 28
+      height: 45
+    spriteID: 174be8c576b88644998bff9d7ec6b207
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1033, y: 242}
+  - name: Forma 1 copia 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1601
+      width: 30
+      height: 45
+    spriteID: ab42ae5d5f630c341a18a82350e7f685
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 969, y: 645}
+  - name: Forma 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1276
+      width: 58
+      height: 52
+    spriteID: e184357a97550a344992a8f1bb8e7bc0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1036, y: 457}
+  - name: Forma 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1165
+      width: 41
+      height: 103
+    spriteID: 531c589cef073b541b7b29754e2c0c29
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1036, y: 439}
+  - name: Forma 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1036
+      width: 62
+      height: 121
+    spriteID: d913bcebd6a7d8e4ca032d3f9f0220a0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1036, y: 170}
+  - name: Forma 1 copia 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 1036
+      width: 28
+      height: 46
+    spriteID: 38b4cc022aa990d4ca44ae310a85ff33
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1058, y: 494}
+  - name: Forma 1 copia 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1867
+      width: 29
+      height: 46
+    spriteID: 1402e71fa09ab4d44b1736bafd4f3ef7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1010, y: 1736}
+  - name: Forma 1 copia 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1389
+      width: 32
+      height: 45
+    spriteID: 79474737a9952354585f18f3078c67c6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1009, y: 1207}
+  - name: Forma 1 copia 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 1303
+      width: 27
+      height: 45
+    spriteID: b2b6bb46765eb2a488327a6efd784a6a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1068, y: 1072}
+  - name: Forma 1 copia 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 1090
+      width: 28
+      height: 46
+    spriteID: 57816466896e3e2419bed9fa332e10f9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1071, y: 808}
+  - name: Forma 1 copia 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1654
+      width: 30
+      height: 45
+    spriteID: 21754bed185f34741950315e5b8f0136
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 996, y: 1318}
+  - name: Forma 1 copia 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1707
+      width: 30
+      height: 45
+    spriteID: 47feada90b9694741bf0ff6455fd0854
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 988, y: 1320}
+  - name: Forma 1 copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1106
+      y: 1197
+      width: 28
+      height: 45
+    spriteID: f63a4b1210b8d8448a4bcf39e779190e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1052, y: 759}
+  - name: Forma 1 copia 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 1760
+      width: 30
+      height: 45
+    spriteID: 1e29ec95e28f2954ebcd5b87ba5439a9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 988, y: 1268}
+  - name: Capa 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1036
+      y: 4
+      width: 113
+      height: 1024
+    spriteID: 45f2623466a787949bf4c37c835161be
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1036, y: 4}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1024
+      height: 1024
+    spriteID: d4e73cfb92ed9384594e54424c0e0fe2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 1024, y: 1024}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: fiber copia 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 44
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 1 copia 33
+    spriteName: Forma 1 copia 33
+    isGroup: 0
+    parentIndex: 0
+    spriteID: be09e298676f6ee40823a81914b42ce1
+    layerID: 43
+    mosaicPosition: {x: 1036, y: 1921}
+  - name: Forma 1 copia 32
+    spriteName: Forma 1 copia 32
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0e10aeaad36d99e47848891a4bd622fb
+    layerID: 42
+    mosaicPosition: {x: 1071, y: 2029}
+  - name: Forma 1 copia 31
+    spriteName: Forma 1 copia 31
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 992ba32fc53d97e49a2bc9c43d49414d
+    layerID: 41
+    mosaicPosition: {x: 1079, y: 2029}
+  - name: Forma 1 copia 30
+    spriteName: Forma 1 copia 30
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f494703fd79f05a4697353c229198274
+    layerID: 40
+    mosaicPosition: {x: 1087, y: 2029}
+  - name: Forma 1 copia 29
+    spriteName: Forma 1 copia 29
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f876eab891b50154bb9eb4405d351c10
+    layerID: 39
+    mosaicPosition: {x: 1095, y: 2029}
+  - name: Forma 1 copia 28
+    spriteName: Forma 1 copia 28
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d353231cc04e45b47a919bf9a10421e3
+    layerID: 38
+    mosaicPosition: {x: 1071, y: 2037}
+  - name: Forma 1 copia 27
+    spriteName: Forma 1 copia 27
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7ac0512099151cd4bb9c133498d0249a
+    layerID: 37
+    mosaicPosition: {x: 1079, y: 2037}
+  - name: Forma 1 copia 26
+    spriteName: Forma 1 copia 26
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 62d52d2b76259474f8a7f15b49ef846b
+    layerID: 36
+    mosaicPosition: {x: 1036, y: 2029}
+  - name: Forma 1 copia 25
+    spriteName: Forma 1 copia 25
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6e5065c336b50c34e956795330365527
+    layerID: 35
+    mosaicPosition: {x: 1036, y: 1442}
+  - name: fiber copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 33
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 1 copia 24
+    spriteName: Forma 1 copia 24
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 9132897584251694dbae0eb75f95c2fb
+    layerID: 32
+    mosaicPosition: {x: 1106, y: 1356}
+  - name: Forma 1 copia 23
+    spriteName: Forma 1 copia 23
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 4c02c5744ef4ff742abc022e3020cf7f
+    layerID: 31
+    mosaicPosition: {x: 1036, y: 1813}
+  - name: Forma 1 copia 22
+    spriteName: Forma 1 copia 22
+    isGroup: 0
+    parentIndex: 10
+    spriteID: d6745d2655c047c40aca0837b309b38d
+    layerID: 30
+    mosaicPosition: {x: 1036, y: 1336}
+  - name: Forma 1 copia 21
+    spriteName: Forma 1 copia 21
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 9da112d8d3efafe48af46ed6e0d14f03
+    layerID: 29
+    mosaicPosition: {x: 1106, y: 1250}
+  - name: Forma 1 copia 20
+    spriteName: Forma 1 copia 20
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 2963bc47ceb76984fa6aebb035576860
+    layerID: 28
+    mosaicPosition: {x: 1036, y: 1975}
+  - name: Forma 1 copia 19
+    spriteName: Forma 1 copia 19
+    isGroup: 0
+    parentIndex: 10
+    spriteID: c01ded0d901cc094e95db8da2a1ba02c
+    layerID: 27
+    mosaicPosition: {x: 1036, y: 1495}
+  - name: Forma 1 copia 18
+    spriteName: Forma 1 copia 18
+    isGroup: 0
+    parentIndex: 10
+    spriteID: f33119c62d1a7e84a94945aa1da64260
+    layerID: 26
+    mosaicPosition: {x: 1036, y: 1548}
+  - name: Forma 1 copia 17
+    spriteName: Forma 1 copia 17
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 174be8c576b88644998bff9d7ec6b207
+    layerID: 25
+    mosaicPosition: {x: 1106, y: 1144}
+  - name: Forma 1 copia 16
+    spriteName: Forma 1 copia 16
+    isGroup: 0
+    parentIndex: 10
+    spriteID: ab42ae5d5f630c341a18a82350e7f685
+    layerID: 24
+    mosaicPosition: {x: 1036, y: 1601}
+  - name: Forma 3
+    spriteName: Forma 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e184357a97550a344992a8f1bb8e7bc0
+    layerID: 48
+    mosaicPosition: {x: 1036, y: 1276}
+  - name: Forma 2
+    spriteName: Forma 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 531c589cef073b541b7b29754e2c0c29
+    layerID: 47
+    mosaicPosition: {x: 1036, y: 1165}
+  - name: Forma 1
+    spriteName: Forma 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d913bcebd6a7d8e4ca032d3f9f0220a0
+    layerID: 46
+    mosaicPosition: {x: 1036, y: 1036}
+  - name: fiber
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 1 copia 15
+    spriteName: Forma 1 copia 15
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 38b4cc022aa990d4ca44ae310a85ff33
+    layerID: 20
+    mosaicPosition: {x: 1106, y: 1036}
+  - name: Forma 1 copia 14
+    spriteName: Forma 1 copia 14
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 1402e71fa09ab4d44b1736bafd4f3ef7
+    layerID: 18
+    mosaicPosition: {x: 1036, y: 1867}
+  - name: Forma 1 copia 13
+    spriteName: Forma 1 copia 13
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 79474737a9952354585f18f3078c67c6
+    layerID: 17
+    mosaicPosition: {x: 1036, y: 1389}
+  - name: Forma 1 copia 12
+    spriteName: Forma 1 copia 12
+    isGroup: 0
+    parentIndex: 23
+    spriteID: b2b6bb46765eb2a488327a6efd784a6a
+    layerID: 16
+    mosaicPosition: {x: 1106, y: 1303}
+  - name: Forma 1 copia 11
+    spriteName: Forma 1 copia 11
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 57816466896e3e2419bed9fa332e10f9
+    layerID: 15
+    mosaicPosition: {x: 1106, y: 1090}
+  - name: Forma 1 copia 10
+    spriteName: Forma 1 copia 10
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 21754bed185f34741950315e5b8f0136
+    layerID: 14
+    mosaicPosition: {x: 1036, y: 1654}
+  - name: Forma 1 copia 9
+    spriteName: Forma 1 copia 9
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 47feada90b9694741bf0ff6455fd0854
+    layerID: 13
+    mosaicPosition: {x: 1036, y: 1707}
+  - name: Forma 1 copia 8
+    spriteName: Forma 1 copia 8
+    isGroup: 0
+    parentIndex: 23
+    spriteID: f63a4b1210b8d8448a4bcf39e779190e
+    layerID: 12
+    mosaicPosition: {x: 1106, y: 1197}
+  - name: Forma 1 copia 7
+    spriteName: Forma 1 copia 7
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 1e29ec95e28f2954ebcd5b87ba5439a9
+    layerID: 11
+    mosaicPosition: {x: 1036, y: 1760}
+  - name: Capa 2
+    spriteName: Capa 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 45f2623466a787949bf4c37c835161be
+    layerID: 45
+    mosaicPosition: {x: 1036, y: 4}
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d4e73cfb92ed9384594e54424c0e0fe2
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: pared nueva Texture
+  prefabAssetName: pared nueva Prefab
+  spriteLibAssetName: pared nueva Sprite Lib
+  secondarySpriteTextures: []

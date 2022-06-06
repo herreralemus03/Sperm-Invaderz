@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: dada0ae75eada804dbe0ed6147b6f30a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Elipse 35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7687
+      y: 4
+      width: 103
+      height: 122
+    spriteID: 47b49fb159bfd814b9903fd4e7deda53
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5495, y: -1526}
+  - name: Elipse 33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7798
+      y: 4
+      width: 93
+      height: 105
+    spriteID: 27b763da0443ef04599dfbdd3150e596
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 6139, y: -1533}
+  - name: Elipse 30 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7698
+      y: 672
+      width: 208
+      height: 414
+    spriteID: 552b6b57b95901e43bea0822ff8615ec
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5547, y: -599}
+  - name: Elipse 30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7914
+      y: 672
+      width: 208
+      height: 414
+    spriteID: 25709b27a2cabee4187991317d3d4784
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 6270, y: -599}
+  - name: Elipse 29 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3422
+      y: 4
+      width: 622
+      height: 1135
+    spriteID: e58e9b0d1e2231548b03c8464e064bbf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1559, y: -919}
+  - name: Elipse 29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4052
+      y: 4
+      width: 622
+      height: 1135
+    spriteID: 092807403c8ff3149a7adde642c71fe7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2610, y: -919}
+  - name: Elipse 28 copia 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5425
+      y: 4
+      width: 746
+      height: 466
+    spriteID: 74f83c6fd9f1022469746d873070b04e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3812, y: -1009}
+  - name: Elipse 28 copia 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6179
+      y: 4
+      width: 746
+      height: 466
+    spriteID: fdac3429be4784144adf248b78d5b982
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4566, y: -1164}
+  - name: Elipse 28 copia 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6933
+      y: 4
+      width: 746
+      height: 466
+    spriteID: 5ea4957a3d786c64f8c5f196261846c6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5320, y: -1331}
+  - name: Elipse 28 copia 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4682
+      y: 672
+      width: 746
+      height: 466
+    spriteID: c3180994444b2934598ff9d1e5f6db65
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3069, y: -817}
+  - name: Elipse 28 copia 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5436
+      y: 672
+      width: 746
+      height: 466
+    spriteID: 90b1bf51360ca1440a32b08464322cd9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3823, y: -961}
+  - name: Elipse 28 copia 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6190
+      y: 672
+      width: 746
+      height: 466
+    spriteID: d45dc01826148a841b062f15c8ef6388
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4577, y: -1116}
+  - name: Elipse 28 copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 6944
+      y: 672
+      width: 746
+      height: 466
+    spriteID: 716e5d6cd3e857640b51550a6c1f2a0d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 5331, y: -1283}
+  - name: Elipse 28 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3422
+      y: 1147
+      width: 746
+      height: 466
+    spriteID: 359d58113d485b14a86173515751f075
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1809, y: -962}
+  - name: Elipse 28 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4176
+      y: 1147
+      width: 746
+      height: 466
+    spriteID: 9ef11fdee425f374882f39864492ba35
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2563, y: -1129}
+  - name: Elipse 28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4930
+      y: 1147
+      width: 746
+      height: 466
+    spriteID: 9e7cca2844880374cbf3d6a7307ee494
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3317, y: -1283}
+  - name: Elipse 31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4682
+      y: 4
+      width: 735
+      height: 660
+    spriteID: b9d5f4ab128b23448975a48195ed9b7c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3070, y: -3026}
+  - name: Capa 75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5684
+      y: 1147
+      width: 1823
+      height: 166
+    spriteID: b1dd3de983cd6004f9dc9bddd987f732
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4530, y: 301}
+  - name: "Rect\xE1ngulo redondeado 2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 3410
+      height: 2687
+    spriteID: 4abc85760434f8542a348f05e2c373ce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -403, y: -531}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 4096, y: 4096}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 8192
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: diu
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 276
+    mosaicPosition: {x: 0, y: 0}
+  - name: ojos
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 275
+    mosaicPosition: {x: 0, y: 0}
+  - name: Elipse 35
+    spriteName: Elipse 35
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 47b49fb159bfd814b9903fd4e7deda53
+    layerID: 274
+    mosaicPosition: {x: 7687, y: 4}
+  - name: Elipse 33
+    spriteName: Elipse 33
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 27b763da0443ef04599dfbdd3150e596
+    layerID: 272
+    mosaicPosition: {x: 7798, y: 4}
+  - name: Elipse 30 copia
+    spriteName: Elipse 30 copia
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 552b6b57b95901e43bea0822ff8615ec
+    layerID: 270
+    mosaicPosition: {x: 7698, y: 672}
+  - name: Elipse 30
+    spriteName: Elipse 30
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 25709b27a2cabee4187991317d3d4784
+    layerID: 269
+    mosaicPosition: {x: 7914, y: 672}
+  - name: Elipse 29 copia
+    spriteName: Elipse 29 copia
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e58e9b0d1e2231548b03c8464e064bbf
+    layerID: 268
+    mosaicPosition: {x: 3422, y: 4}
+  - name: Elipse 29
+    spriteName: Elipse 29
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 092807403c8ff3149a7adde642c71fe7
+    layerID: 267
+    mosaicPosition: {x: 4052, y: 4}
+  - name: cuerpo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 265
+    mosaicPosition: {x: 0, y: 0}
+  - name: Elipse 28 copia 9
+    spriteName: Elipse 28 copia 9
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 74f83c6fd9f1022469746d873070b04e
+    layerID: 264
+    mosaicPosition: {x: 5425, y: 4}
+  - name: Elipse 28 copia 8
+    spriteName: Elipse 28 copia 8
+    isGroup: 0
+    parentIndex: 8
+    spriteID: fdac3429be4784144adf248b78d5b982
+    layerID: 263
+    mosaicPosition: {x: 6179, y: 4}
+  - name: Elipse 28 copia 7
+    spriteName: Elipse 28 copia 7
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 5ea4957a3d786c64f8c5f196261846c6
+    layerID: 262
+    mosaicPosition: {x: 6933, y: 4}
+  - name: Elipse 28 copia 6
+    spriteName: Elipse 28 copia 6
+    isGroup: 0
+    parentIndex: 8
+    spriteID: c3180994444b2934598ff9d1e5f6db65
+    layerID: 261
+    mosaicPosition: {x: 4682, y: 672}
+  - name: Elipse 28 copia 5
+    spriteName: Elipse 28 copia 5
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 90b1bf51360ca1440a32b08464322cd9
+    layerID: 260
+    mosaicPosition: {x: 5436, y: 672}
+  - name: Elipse 28 copia 4
+    spriteName: Elipse 28 copia 4
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d45dc01826148a841b062f15c8ef6388
+    layerID: 259
+    mosaicPosition: {x: 6190, y: 672}
+  - name: Elipse 28 copia 3
+    spriteName: Elipse 28 copia 3
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 716e5d6cd3e857640b51550a6c1f2a0d
+    layerID: 258
+    mosaicPosition: {x: 6944, y: 672}
+  - name: Elipse 28 copia 2
+    spriteName: Elipse 28 copia 2
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 359d58113d485b14a86173515751f075
+    layerID: 257
+    mosaicPosition: {x: 3422, y: 1147}
+  - name: Elipse 28 copia
+    spriteName: Elipse 28 copia
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 9ef11fdee425f374882f39864492ba35
+    layerID: 256
+    mosaicPosition: {x: 4176, y: 1147}
+  - name: Elipse 28
+    spriteName: Elipse 28
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 9e7cca2844880374cbf3d6a7307ee494
+    layerID: 255
+    mosaicPosition: {x: 4930, y: 1147}
+  - name: Elipse 31
+    spriteName: Elipse 31
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b9d5f4ab128b23448975a48195ed9b7c
+    layerID: 253
+    mosaicPosition: {x: 4682, y: 4}
+  - name: Capa 75
+    spriteName: Capa 75
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b1dd3de983cd6004f9dc9bddd987f732
+    layerID: 252
+    mosaicPosition: {x: 5684, y: 1147}
+  - name: "Rect\xE1ngulo redondeado 2"
+    spriteName: "Rect\xE1ngulo redondeado 2"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4abc85760434f8542a348f05e2c373ce
+    layerID: 251
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: diu Texture
+  prefabAssetName: diu Prefab
+  spriteLibAssetName: diu Sprite Lib
+  secondarySpriteTextures: []

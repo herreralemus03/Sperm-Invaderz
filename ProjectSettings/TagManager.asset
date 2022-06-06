@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - shoot
+  - meteor
+  - ovum
+  - sperm
+  - boss
+  - pill
+  - condom
+  - sperm_group
+  - exitArea
+  - item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - sperm
+  - condom
+  - exitArea
+  - player
+  - item
+  - ovum
+  - letterboard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ovum
+    uniqueID: 2562923169
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

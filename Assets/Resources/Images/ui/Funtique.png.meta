@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: 7b2ce7428a95a594eb6870053decdb32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5265536346130502032
+    second: button yellow
+  - first:
+      213: -4080059983468798131
+    second: button yellow pressed
+  - first:
+      213: 8176612291797284206
+    second: close button
+  - first:
+      213: -2573168737703556963
+    second: label
+  - first:
+      213: 195835984000236507
+    second: button blue
+  - first:
+      213: 3011037508173251817
+    second: button blue pressed
+  - first:
+      213: -7003899550859327263
+    second: slider bar
+  - first:
+      213: -6462207444093396412
+    second: liston
+  - first:
+      213: 4699884082310628325
+    second: button gray
+  - first:
+      213: 8815051233256961687
+    second: button green
+  - first:
+      213: 7762810036574173165
+    second: button gray pressed
+  - first:
+      213: 2758436575568094928
+    second: button green pressed
+  - first:
+      213: 1758310535360626157
+    second: add button
+  - first:
+      213: 334785369422107719
+    second: add button pressed
+  - first:
+      213: -4798811215669818370
+    second: slider handle
+  - first:
+      213: 2969375998771033436
+    second: dialog box
+  - first:
+      213: -50562339255363115
+    second: loading
+  - first:
+      213: -2271986988175597447
+    second: achievement
+  - first:
+      213: 8115938938044975550
+    second: energy
+  - first:
+      213: 8810142167787144048
+    second: star
+  - first:
+      213: 2175197458922065308
+    second: hearth
+  - first:
+      213: 3548893919258463777
+    second: coin
+  - first:
+      213: 2325554511374585887
+    second: Funtique_22
+  - first:
+      213: 8518233361977863402
+    second: Funtique_23
+  - first:
+      213: 328917856552691034
+    second: Funtique_24
+  - first:
+      213: -3862979619824387525
+    second: Funtique_25
+  - first:
+      213: 2160745674504907551
+    second: Funtique_26
+  - first:
+      213: -8270248597759874973
+    second: Funtique_27
+  - first:
+      213: -1986209871641822845
+    second: not
+  - first:
+      213: -5000053436894885341
+    second: button
+  - first:
+      213: -63734988017492606
+    second: Funtique_30
+  - first:
+      213: -4387893897090430014
+    second: Funtique_31
+  - first:
+      213: 3156835856404641633
+    second: Funtique_32
+  - first:
+      213: 4456398700597643986
+    second: Funtique_33
+  - first:
+      213: 5896778401887387783
+    second: Funtique_34
+  - first:
+      213: -5979582807945496004
+    second: Funtique_35
+  - first:
+      213: 5121272869910713360
+    second: about
+  - first:
+      213: 4242182332883869765
+    second: Funtique_37
+  - first:
+      213: 2344837418337253985
+    second: Funtique_38
+  - first:
+      213: 5510680203144495215
+    second: Funtique_39
+  - first:
+      213: 1162539850880133521
+    second: Funtique_40
+  - first:
+      213: 7656945975875730612
+    second: Funtique_41
+  - first:
+      213: -7660611612532294363
+    second: Funtique_42
+  - first:
+      213: -2234286976356695248
+    second: sfx
+  - first:
+      213: 6954124206450870615
+    second: setup
+  - first:
+      213: 6471226995135022970
+    second: Funtique_45
+  - first:
+      213: 639577756944918674
+    second: Funtique_46
+  - first:
+      213: -4235437752171491677
+    second: Funtique_47
+  - first:
+      213: -7666134346633958338
+    second: Funtique_48
+  - first:
+      213: 3081832400692795970
+    second: Funtique_49
+  - first:
+      213: 8610319267011366906
+    second: Funtique_50
+  - first:
+      213: 6084035624810125164
+    second: music
+  - first:
+      213: 2624205652843081995
+    second: button pressed
+  - first:
+      213: 827189656970366478
+    second: label 2
+  - first:
+      213: -5708423693710831213
+    second: Funtique_54
+  - first:
+      213: -4650786100239781437
+    second: Funtique_55
+  - first:
+      213: 5482312128683812190
+    second: Funtique_56
+  - first:
+      213: 8063216054251586047
+    second: Funtique_57
+  - first:
+      213: -5313892570232650036
+    second: Funtique_58
+  - first:
+      213: -2321623651327397855
+    second: Funtique_59
+  - first:
+      213: -1371150578003944589
+    second: Funtique_60
+  - first:
+      213: 2027177998754996876
+    second: tooltip
+  - first:
+      213: 5457011787370999305
+    second: star not filled
+  - first:
+      213: -3753826736971255709
+    second: star filled
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button yellow
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6688
+        width: 490
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0915407a861f21940800000000000000
+      internalID: 5265536346130502032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button yellow pressed
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6695
+        width: 485
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5e07ef07b067c0800000000000000
+      internalID: -4080059983468798131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close button
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 6744
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657baece89297170800000000000000
+      internalID: 8176612291797284206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: label
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 6697
+        width: 483
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d980a029aa44a4cd0800000000000000
+      internalID: -2573168737703556963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button blue
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6471
+        width: 490
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbb2943acfb7b200800000000000000
+      internalID: 195835984000236507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button blue pressed
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6479
+        width: 485
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44b0819aa59c920800000000000000
+      internalID: 3011037508173251817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider bar
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 6521
+        width: 676
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8038c77762dce90800000000000000
+      internalID: -7003899550859327263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liston
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5726
+        width: 1199
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a9ded5190a156a0800000000000000
+      internalID: -6462207444093396412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button gray
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6022
+        width: 490
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e343abfba7593140800000000000000
+      internalID: 4699884082310628325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button green
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6247
+        width: 490
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796762b746a555a70800000000000000
+      internalID: 8815051233256961687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button gray pressed
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6031
+        width: 485
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de737d0699a0bbb60800000000000000
+      internalID: 7762810036574173165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button green pressed
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6254
+        width: 485
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d66e2e537fe74620800000000000000
+      internalID: 2758436575568094928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add button
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 6224
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded3ff0bd16c66810800000000000000
+      internalID: 1758310535360626157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add button pressed
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 6034
+        width: 158
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744176c058565a400800000000000000
+      internalID: 334785369422107719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider handle
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 6358
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb07d1ef92376db0800000000000000
+      internalID: -4798811215669818370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog box
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4389
+        width: 906
+        height: 1309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55715b0db7553920800000000000000
+      internalID: 2969375998771033436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loading
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5212
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9dba102dd5c4ff0800000000000000
+      internalID: -50562339255363115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: achievement
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 4699
+        width: 445
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970eb7b2fd74870e0800000000000000
+      internalID: -2271986988175597447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 4726
+        width: 182
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98eecc67b91a070800000000000000
+      internalID: 8115938938044975550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 4415
+        width: 264
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07384ab9f99e34a70800000000000000
+      internalID: 8810142167787144048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hearth
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 4415
+        width: 273
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc16f609adf2e10800000000000000
+      internalID: 2175197458922065308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 4063
+        width: 266
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec1fa7734304130800000000000000
+      internalID: 3548893919258463777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3779
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101a4cb187064020800000000000000
+      internalID: 2325554511374585887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3779
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec62967c18d63670800000000000000
+      internalID: 8518233361977863402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3779
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a552b104c0d809400800000000000000
+      internalID: 328917856552691034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_25
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3779
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a3bc1b080f36ac0800000000000000
+      internalID: -3862979619824387525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_26
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 3779
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ba3da2eb28cfd10800000000000000
+      internalID: 2160745674504907551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_27
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 3779
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368a95ec7bc2a3d80800000000000000
+      internalID: -8270248597759874973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: not
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3796
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3893a6725a09f64e0800000000000000
+      internalID: -1986209871641822845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3739
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ac8ebf3ed3c9ab0800000000000000
+      internalID: -5000053436894885341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3573
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d1477bd519d1ff0800000000000000
+      internalID: -63734988017492606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3573
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb02d7afb11b13c0800000000000000
+      internalID: -4387893897090430014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3573
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f63b5c755fcb20800000000000000
+      internalID: 3156835856404641633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_33
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3573
+        width: 161
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da82a6d10f48dd30800000000000000
+      internalID: 4456398700597643986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_34
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 3569
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78081bbc6b095d150800000000000000
+      internalID: 5896778401887387783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_35
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3569
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a306b0e11440da0800000000000000
+      internalID: -5979582807945496004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: about
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3627
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149fd0aa8a621740800000000000000
+      internalID: 5121272869910713360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3336
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402bff0b524fda30800000000000000
+      internalID: 4242182332883869765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3336
+        width: 167
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a390065398a8020800000000000000
+      internalID: 2344837418337253985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_39
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3336
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60843ba27ed97c40800000000000000
+      internalID: 5510680203144495215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3336
+        width: 165
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19922f0c5db222010800000000000000
+      internalID: 1162539850880133521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_41
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3336
+        width: 165
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcfd6cfbcfe24a60800000000000000
+      internalID: 7656945975875730612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_42
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 3336
+        width: 165
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52db7c8735a00b590800000000000000
+      internalID: -7660611612532294363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sfx
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 3471
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0334aff25d73ef0e0800000000000000
+      internalID: -2234286976356695248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: setup
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 3464
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75903790f13028060800000000000000
+      internalID: 6954124206450870615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3131
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7701f18aaa6ec950800000000000000
+      internalID: 6471226995135022970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3132
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29861f0d49c30e800800000000000000
+      internalID: 639577756944918674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_47
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3132
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae0a810ec3b835c0800000000000000
+      internalID: -4235437752171491677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_48
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3131
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c267cbd6b6c9590800000000000000
+      internalID: -7666134346633958338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_49
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3127
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a559c7d3ed4ca20800000000000000
+      internalID: 3081832400692795970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_50
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3127
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff0ae001cffd7770800000000000000
+      internalID: 8610319267011366906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: music
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3278
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6711a98a26de6450800000000000000
+      internalID: 6084035624810125164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button pressed
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 3251
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01b84b332d0b6420800000000000000
+      internalID: 2624205652843081995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: label 2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2880
+        width: 606
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e88914c94ca7b00800000000000000
+      internalID: 827189656970366478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2643
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39151f425ea97c0b0800000000000000
+      internalID: -5708423693710831213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_55
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2643
+        width: 166
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c132e8cea6157fb0800000000000000
+      internalID: -4650786100239781437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_56
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2643
+        width: 166
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a302a5d5151c40800000000000000
+      internalID: 5482312128683812190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_57
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2433
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff184e4d74c46ef60800000000000000
+      internalID: 8063216054251586047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_58
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2433
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc602b09cd24146b0800000000000000
+      internalID: -5313892570232650036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_59
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2433
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203c70f69fe7cfd0800000000000000
+      internalID: -2321623651327397855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funtique_60
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2435
+        width: 607
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd08060d1b8fce0800000000000000
+      internalID: -1371150578003944589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tooltip
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1901
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82674046abf12c10800000000000000
+      internalID: 2027177998754996876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star not filled
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1787
+        width: 409
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e2e51ee433bbb40800000000000000
+      internalID: 5457011787370999305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star filled
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1777
+        width: 422
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360f67aa87ab7ebc0800000000000000
+      internalID: -3753826736971255709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

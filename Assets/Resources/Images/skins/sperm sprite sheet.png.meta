@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 71ee3938da2b8db488da0a91ca71d52a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5189310004078931936
+    second: sperm sprite sheet_0
+  - first:
+      213: 8476143979277376389
+    second: sperm sprite sheet_1
+  - first:
+      213: 3644631151827233999
+    second: sperm sprite sheet_2
+  - first:
+      213: -309230852271518704
+    second: sperm sprite sheet_3
+  - first:
+      213: -728039044162986503
+    second: sperm sprite sheet_4
+  - first:
+      213: -822668898187016358
+    second: sperm sprite sheet_5
+  - first:
+      213: 8863019308112338199
+    second: sperm sprite sheet_6
+  - first:
+      213: 4064051373439747265
+    second: sperm sprite sheet_7
+  - first:
+      213: -5351958481475975474
+    second: sperm sprite sheet_8
+  - first:
+      213: -9073584310973447197
+    second: sperm sprite sheet_9
+  - first:
+      213: 3119229667521891900
+    second: sperm sprite sheet_10
+  - first:
+      213: 4842526812338004744
+    second: sperm sprite sheet_11
+  - first:
+      213: -4006176542151591891
+    second: sperm sprite sheet_12
+  - first:
+      213: -8099757419606524151
+    second: sperm sprite sheet_13
+  - first:
+      213: -2311205909261755689
+    second: sperm sprite sheet_14
+  - first:
+      213: -4335698186798973695
+    second: sperm sprite sheet_15
+  - first:
+      213: -2432169543022719712
+    second: sperm sprite sheet_16
+  - first:
+      213: 7812609754798569766
+    second: sperm sprite sheet_17
+  - first:
+      213: -3089889688512112646
+    second: sperm sprite sheet_18
+  - first:
+      213: 5714252572930095878
+    second: sperm sprite sheet_19
+  - first:
+      213: 8805367834429606526
+    second: sperm sprite sheet_20
+  - first:
+      213: -584323331313306153
+    second: sperm sprite sheet_21
+  - first:
+      213: -7909227011956402320
+    second: sperm sprite sheet_22
+  - first:
+      213: -8534203964723549428
+    second: sperm sprite sheet_23
+  - first:
+      213: -480976193832747117
+    second: sperm sprite sheet_24
+  - first:
+      213: -1696291600320235928
+    second: sperm sprite sheet_25
+  - first:
+      213: -5469708539864170051
+    second: sperm sprite sheet_26
+  - first:
+      213: 2258490919074659105
+    second: sperm sprite sheet_27
+  - first:
+      213: -6917563660971212836
+    second: sperm sprite sheet_28
+  - first:
+      213: 6209370266492631996
+    second: sperm sprite sheet_29
+  - first:
+      213: 7696554308807513751
+    second: sperm sprite sheet_30
+  - first:
+      213: -3049637065624081768
+    second: sperm sprite sheet_31
+  - first:
+      213: 8831436259131109745
+    second: sperm sprite sheet_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sperm sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2657
+        width: 147
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209e71ab0edbf7b0800000000000000
+      internalID: -5189310004078931936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2657
+        width: 152
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bd4e56a0051a570800000000000000
+      internalID: 8476143979277376389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2657
+        width: 149
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc2cf5f8b4549230800000000000000
+      internalID: 3644631151827233999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2657
+        width: 144
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc3c0ad2465bbf0800000000000000
+      internalID: -309230852271518704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 2657
+        width: 148
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fddc0eb85c75e5f0800000000000000
+      internalID: -728039044162986503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2244
+        width: 148
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a570dcbeefa4594f0800000000000000
+      internalID: -822668898187016358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2242
+        width: 145
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd6793a15cffa70800000000000000
+      internalID: 8863019308112338199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2242
+        width: 148
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c480de1139666830800000000000000
+      internalID: 4064051373439747265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2244
+        width: 144
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec64cf2fd160ab5b0800000000000000
+      internalID: -5351958481475975474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 2242
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ced0a427241280800000000000000
+      internalID: -9073584310973447197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1829
+        width: 147
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e80813bdab94b20800000000000000
+      internalID: 3119229667521891900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1829
+        width: 142
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80326b0aa7c143340800000000000000
+      internalID: 4842526812338004744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1829
+        width: 149
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d283d8919a33768c0800000000000000
+      internalID: -4006176542151591891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1828
+        width: 147
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb48d8a81e79f80800000000000000
+      internalID: -8099757419606524151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1828
+        width: 146
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5ba78872fcefd0800000000000000
+      internalID: -2311205909261755689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1414
+        width: 150
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dba8a787184d3c0800000000000000
+      internalID: -4335698186798973695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1414
+        width: 142
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4b92dfa23f3ed0800000000000000
+      internalID: -2432169543022719712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1414
+        width: 149
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6293583dd27fb6c60800000000000000
+      internalID: 7812609754798569766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1414
+        width: 144
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d71103b18e15d0800000000000000
+      internalID: -3089889688512112646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1414
+        width: 149
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3c5e807a1d4f40800000000000000
+      internalID: 5714252572930095878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1001
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac3df7463f23a70800000000000000
+      internalID: 8805367834429606526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1001
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5f81ba60114e7f0800000000000000
+      internalID: -584323331313306153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1001
+        width: 151
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771a6000f7cc3290800000000000000
+      internalID: -7909227011956402320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1001
+        width: 144
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2ce1d5ba609980800000000000000
+      internalID: -8534203964723549428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1001
+        width: 150
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ffd2533ba3359f0800000000000000
+      internalID: -480976193832747117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 587
+        width: 147
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866fe6fd6cf8578e0800000000000000
+      internalID: -1696291600320235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 587
+        width: 142
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c9701011b714b0800000000000000
+      internalID: -5469708539864170051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 587
+        width: 151
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bf3ef5685c75f10800000000000000
+      internalID: 2258490919074659105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 587
+        width: 145
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff8ac4080efff90800000000000000
+      internalID: -6917563660971212836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 587
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb7a25db5d1c2650800000000000000
+      internalID: 6209370266492631996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 173
+        width: 148
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79659f2ad57afca60800000000000000
+      internalID: 7696554308807513751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 172
+        width: 142
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aac991f338da5d0800000000000000
+      internalID: -3049637065624081768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sperm sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 173
+        width: 145
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171b30a9c709f8a70800000000000000
+      internalID: 8831436259131109745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

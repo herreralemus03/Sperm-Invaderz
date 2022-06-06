@@ -1,0 +1,612 @@
+﻿{
+  "levelsInfo": [
+    {
+      "id": 1,
+      "damageAmount": 20.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 5.0,
+          "spawnAmount": 1,
+          "spawnDelayBetween": 1,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "damageAmount": 10.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 3,
+          "spawnDelayBetween": 1,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "damageAmount": 6.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 3.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 1.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "damageAmount": 2.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.66,
+          "spawnAmount": 10,
+          "spawnDelayBetween": 0.65,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "damageAmount": 2.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.25,
+          "spawnAmount": 10,
+          "spawnDelayBetween": 0.38,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "damageAmount": 1.5,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.25,
+          "spawnAmount": 10,
+          "spawnDelayBetween": 0.38,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "damageAmount": 1.25,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.25,
+          "spawnAmount": 10,
+          "spawnDelayBetween": 0.38,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "damageAmount": 1.25,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.24,
+          "spawnAmount": 10,
+          "spawnDelayBetween": 0.38,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "damageAmount": 2.0,
+      "probabilityYoutuberSpermSpawn": 65.7,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 2.5,
+          "spawnAmount": 8,
+          "spawnDelayBetween": 0.73,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "damageAmount": 1.8,
+      "probabilityYoutuberSpermSpawn": 70.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 2.5,
+          "spawnAmount": 8,
+          "spawnDelayBetween": 0.6,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "damageAmount": 1.5,
+      "probabilityYoutuberSpermSpawn": 85.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 2.25,
+          "spawnAmount": 12,
+          "spawnDelayBetween": 0.40,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "damageAmount": 1.5,
+      "probabilityYoutuberSpermSpawn": 85.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.8,
+          "spawnAmount": 12,
+          "spawnDelayBetween": 0.4,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "damageAmount": 1.3,
+      "probabilityYoutuberSpermSpawn": 90.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.5,
+          "spawnAmount": 12,
+          "spawnDelayBetween": 0.4,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "damageAmount": 1,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 2.0,
+          "spawnRate": 1.5,
+          "spawnAmount": 12,
+          "spawnDelayBetween": 0.35,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": false,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "damageAmount": 25.0,
+      "probabilityYoutuberSpermSpawn": 0.0,
+      "probabilityStreamerSpermSpawn": 0.0,
+      "probabilityDjSpermSpawn": 0.0,
+      "probabilityComedianSpermSpawn": 0.0,
+      "probabilityInfluencerSpermSpawn": 0.0,
+      "boss": true,
+      "behaviors": [
+        {
+          "spawnStartDelay": 3.0,
+          "spawnRate": 4.0,
+          "spawnAmount": 4,
+          "spawnDelayBetween": 0.0,
+          "spermLife": 1
+        }
+      ]
+    }
+  ]
+}
